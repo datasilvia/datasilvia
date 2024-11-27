@@ -8,6 +8,10 @@ https://datasilvia.github.io/YellowDataTeam/
 
 - 🌱 I’m currently learning ... Data Analysis
 
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=datasilvia&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="datasilvia" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=datasilvia&theme=highcontrast&hide_border=true" alt="datasilvia" />
+
+
   
 <!--
 - 🔭 I’m currently working on ...
