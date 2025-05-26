@@ -22,3 +22,6 @@ https://datasilvia.github.io/YellowDataTeam/
 - ⚡ Fun fact: ...
 
 -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datasilvia&theme=github" alt="GitHub Activity Graph" />
+</div>
